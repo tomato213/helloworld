@@ -4,7 +4,7 @@
 
 # 论文标题
 
-## [Digital Twins for Ports: Derived From Smart City and Supply Chain Twinning Experience]([link](https://ieeexplore.ieee.org/search/searchresult.jsp?newsearch=true&queryText=Digital%20Twins%20for%20Ports:%20Derived%20From%20Smart%20City%20and%20Supply%20Chain%20Twinning%20Experience))
+## [Digital Twins for Ports: Derived From Smart City and Supply Chain Twinning Experience](https://ieeexplore.ieee.org/search/searchresult.jsp?newsearch=true&queryText=Digital%20Twins%20for%20Ports:%20Derived%20From%20Smart%20City%20and%20Supply%20Chain%20Twinning%20Experience)
 
 # 摘要
 
