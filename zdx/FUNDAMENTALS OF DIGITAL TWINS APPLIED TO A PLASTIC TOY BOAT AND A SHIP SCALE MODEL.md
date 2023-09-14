@@ -1,16 +1,24 @@
 #日期
+
 ##2023.9.8
+
 #论文标题
+
 ##[FUNDAMENTALS OF DIGITAL TWINS APPLIED TO A PLASTIC TOY BOAT AND A SHIP SCALE MODEL](https://scholar.google.com.hk/scholar?hl=zh-CN&as_sdt=0%2C5&q=FUNDAMENTALS+OF+DIGITAL+TWINS+APPLIED+TO+A+PLASTIC+TOY+BOAT+AND+A+SHIP+SCALE+MODEL&btnG=)
+
 #摘要
+
 The objective of this paper is to present some fundamentals of digital twins that can be applied to examples ranging in different degrees of complexity. The paper presents a common definition of the digital twin concept to examine what are its main elements and how they interact with each other. Such elements are applied to a simple example with a digital twin of a floating body based on computer vision, developed with open source libraries and a web-based approach. Moving towards a more complex example, the paper presents a digital twin of a ship scale model in waves. The model is equipped with a dynamic positioning system, allowing remote control of the desired setpoint from the digital twin interface. Finally, as a direction for future work, the paper discusses the early efforts on the creation of a digital twin of the research vessel Gunnerus based on the aggregation of data from various instrumentation devices.
+
 #引用信息（BibTeX格式）
+
 @inproceedings{fonseca2020fundamentals,
   title={Fundamentals of digital twins applied to a plastic toy boat and a ship scale model},
   author={Fonseca, Icaro Aragao and Gaspar, Henrique Murilo},
   booktitle={Proceedings of the 34th International ECMS-Conference on Modelling and Simulation-ECMS 2020},
   year={2020}
 }
+
 ##
 #本论文解决什么问题
 本文提出了一个波浪中船舶尺度模型的数字孪生模型。 该模型配备了一个动态定位系统，允许从数字孪生接口远程控制所需的设定点。 最后，作为今后工作的一个方向，本文讨论了基于各种仪器设备数据聚合的研究船Gunnerus数字孪生系统的前期工作。
