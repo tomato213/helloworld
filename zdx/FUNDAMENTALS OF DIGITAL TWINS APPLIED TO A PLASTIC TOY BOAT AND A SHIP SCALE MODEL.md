@@ -43,8 +43,11 @@ The objective of this paper is to present some fundamentals of digital twins tha
 5. 使用了Camshift算法进行船只的运动跟踪。Camshift基于另一个算法Meanshift，通过对图像颜色进行直方图分析来识别视频中的对象，并在后续的视频帧上跟踪其运动。
 
 ![](imgs/image.png)
+
 *玩具船数字孪生船的数据采集、传输、处理和使用*
+
 ![](imgs/image-1.png)
+
 *数字孪生接口截图*
 
 **船模数字孪生**
@@ -55,7 +58,9 @@ The objective of this paper is to present some fundamentals of digital twins tha
 1. 第一行为模型——运动响应：显示船舶在其六个自由度上的位置
 2. 第二行为模型——动态定位系统：接收到的数据允许数字孪生以螺旋桨旋转和方位角位置在可视化中示出推进行为
 3. 第三行为模型——入射波：给定波高和周期，使用沃茨色散关系计算波长并3D可视化
+   
 ![](imgs/image-2.png)
+
 *应用于比例模式实验的数字孪生框架*
 
 
