@@ -42,7 +42,7 @@ The objective of this paper is to present some fundamentals of digital twins tha
 4. 从视频源中获取运动坐标。这里使用了OpenCV.js库进行图像处理和运动跟踪。
 5. 使用了Camshift算法进行船只的运动跟踪。Camshift基于另一个算法Meanshift，通过对图像颜色进行直方图分析来识别视频中的对象，并在后续的视频帧上跟踪其运动。
 
-![Alt text](/imgs/image.png)
+![](/imgs/image.png)
 *玩具船数字孪生船的数据采集、传输、处理和使用*
 ![Alt text](/imgs/image-1.png)
 *数字孪生接口截图*
